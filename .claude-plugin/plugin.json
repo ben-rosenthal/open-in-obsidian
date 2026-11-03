@@ -1,0 +1,8 @@
+{
+  "name": "open-in-obsidian",
+  "version": "0.2.0",
+  "description": "Adds an \"Open in Obsidian\" button under every Claude Code edit to a note in an Obsidian vault",
+  "author": { "name": "Ben Rosenthal" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
