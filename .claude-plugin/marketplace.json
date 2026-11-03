@@ -1,0 +1,5 @@
+{
+  "name": "open-in-obsidian",
+  "owner": { "name": "Ben Rosenthal" },
+  "plugins": [{ "name": "open-in-obsidian", "source": "./" }]
+}
